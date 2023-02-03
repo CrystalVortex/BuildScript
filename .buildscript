@@ -1,6 +1,8 @@
 ECHO("This is an example file")
 
 Everything that is not a BuildScript command is a comment like this one.
+All commands are in upper case and it is like a function.
+Each command MUST be under each other.
 
 DIR("test") This creates a directory called 'test'
 
