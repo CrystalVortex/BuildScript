@@ -1,8 +1,9 @@
+<strong>
 # ⚒️ BuildScript
 A new way to install or do different things related to building your project
 
 # ❗ Demo
-go to the file .buildscript for a basic example
+go to the file [.buildscript](https://github.com/CrystalVortex/BuildScript/blob/main/.buildscript) for a basic example
 
 # ⬇️ Install
 + Go to releases and download buildscript.exe
@@ -11,3 +12,4 @@ go to the file .buildscript for a basic example
 
 # ℹ️ Extra Info
 + Lots more commands, a wiki and more features coming soon...
+</strong>
