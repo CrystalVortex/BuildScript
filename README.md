@@ -1,2 +1,13 @@
-# BuildScript
+# ⚒️ BuildScript
 A new way to install or do different things related to building your project
+
+# ❗ Demo
+go to the file .buildscript for a basic example
+
+# ⬇️ Install
++ Go to releases and download buildscript.exe
++ Add it to your system Path environment variable
++ Run "buildscript" in your terminal in a directory that has a .buildscript file
+
+# ℹ️ Extra Info
++ Lots more commands and features coming soon...
