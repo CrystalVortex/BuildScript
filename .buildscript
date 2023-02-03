@@ -1,0 +1,16 @@
+ECHO("This is an example file")
+
+Everything that is not a BuildScript command is a comment like this one.
+
+DIR("test") This creates a directory called 'test'
+
+RUN("") Inside the "" put in an application name that you want to start
+
+CWD("test") Go into a another directory (like cd)
+
+GET("https://google.com") Download a file from the internet
+
+UNZIP("") Inside the "" put a filename to unzip
+
+SYSTEM("echo This is an example file") You can still use system commands using this
+
