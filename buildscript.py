@@ -4,15 +4,6 @@ import time
 
 import shutil
 
-import argparse
-
-parser = argparse.ArgumentParser(description='BuildScript command')
-
-parser.add_argument('-r', '--run', type=None, help='run: buildscript.exe -r OR buildscript.exe -run')
-
-args = parser.parse_args()
-
-
 
 
 
